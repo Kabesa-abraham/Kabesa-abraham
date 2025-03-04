@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kabesa-abraham
 - 👀 I’m interested in web development
 - 🌱 I’m constantly learning React js Node js Express MongoDB
-- 💞️ I’m looking to collaborate on some Mern projects for improving my expertises
-- 📫 How to reach me : email:yebulaabraham@gmail.com facebook:Abraham Kabesa linkedln:Abraham Yebula
+- 💞️ I’m looking to collaborate on some web projects for improving my expertises
+- 📫 How to reach me : linkedln:Abraham Yebula email:yebulaabraham@gmail.com facebook:Abraham Kabesa 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
